@@ -1,9 +1,7 @@
 # Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals
 
 
-## Name :	
-## Roll no:
-## Date of experiment : 
+
   
   
 ## Aim: To configure internal ADC for   LPC2148 ARM 7 and write a code for displaying the values varying from 0v to 3.3v to its equivalent digital values 
@@ -215,6 +213,8 @@ SL NO	% OF POT VALUE	ADC VALUE
 
 
 ## Graph
+![image](https://user-images.githubusercontent.com/94165326/200154613-e014091d-c16a-44cd-a577-7251183a887a.png)
+
 
  
 Figure -09 graph between % of pot(1Kohm) values and ADC 
@@ -224,10 +224,14 @@ Figure -09 graph between % of pot(1Kohm) values and ADC
 
 Output :
 ## before stimulation:
+![image](https://user-images.githubusercontent.com/94165326/200154622-5a110a86-f921-4628-8089-5473037b7bd2.png)
+
 
 
 
 ## after stimulation:
+![image](https://user-images.githubusercontent.com/94165326/200154631-99f718eb-35b3-4856-b469-714f96a615fd.png)
+
 
 
 ## Result :
