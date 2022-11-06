@@ -210,6 +210,9 @@ int main()
 ## Tabulations
 SL NO	% OF POT VALUE	ADC VALUE
 
+![image](https://user-images.githubusercontent.com/94165326/200154541-f6559109-5bad-4451-94fe-41ac40fd551b.png)
+
+
 
 ## Graph
 
