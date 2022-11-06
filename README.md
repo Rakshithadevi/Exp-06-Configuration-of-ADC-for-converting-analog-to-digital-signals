@@ -232,6 +232,10 @@ Output :
 ## after stimulation:
 ![image](https://user-images.githubusercontent.com/94165326/200154631-99f718eb-35b3-4856-b469-714f96a615fd.png)
 
+## circuit image
+![image](https://user-images.githubusercontent.com/94165326/200154772-8a6ca178-446e-4342-a5d8-d0e4d2d8c4ba.png)
+
+
 
 
 ## Result :
